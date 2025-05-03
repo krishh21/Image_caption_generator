@@ -68,6 +68,19 @@ pip install -r requirements.txt
 ```
 This will install all the necessary packages and libraries needed to run the project.
 
+Then you to install  on terminal
+---
+
+pip install streamlit 
+pip install tensor flow 
+---
+ 
+ Run program using this command
+  ---
+  Streamlit run app.py
+  ---
+  
+
 ## Deployement on Streamlit
 
 1. Create an account on Streamlit Sharing.
