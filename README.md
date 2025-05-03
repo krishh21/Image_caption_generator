@@ -73,7 +73,6 @@ Then you to install  on terminal
 
 pip install streamlit 
 pip install tensor flow 
----
  
  Run program using this command
   ---
