@@ -97,7 +97,7 @@ headless = true
 port = $PORT
 enableCORS = false
 ```
-# Make sure that your using 3.11 version of python to run it because of  tensorflow
+# Make sure that your using 3.10 version of python to run it because of  tensorflow
 6. Click on "Deploy app" to deploy the app on Streamlit Sharing.
 
 ## Directory Tree
